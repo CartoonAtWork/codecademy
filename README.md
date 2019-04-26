@@ -155,7 +155,7 @@ Learn about JavaScript ES6 object syntax to model real-world items.
 
 ### 5.6 Intermediate JavaScript Practice 
 Practice your JavaScript knowledge with code challenges.
-- - [ ]Lesson: Code Challenges: Intermediate JavaScript 
+- - [ ] Lesson: Code Challenges: Intermediate JavaScript 
 
 ### 5.7 Re-creating the Lodash Library 
 Re-create a subset of the lodash library.
