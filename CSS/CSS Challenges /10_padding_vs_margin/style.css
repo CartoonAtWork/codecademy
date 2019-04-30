@@ -1,0 +1,29 @@
+.block {
+  height: 100px;
+  width: 100px;
+  display: block;
+}
+
+#container{
+  background-color: #F4E8C1;
+ 	position: absolute;
+  width: 100%;
+}
+
+#teal {
+  background-color: #A8D0DB;
+  margin: 100px; 
+  padding: 0 50px; 
+}
+
+#purple {
+  background-color: #414073;
+  margin: 100px auto 50px 100px; 
+  padding: 50px;
+}
+
+/*Changing only the padding and margin properties of #teal and #purple, make the boxes in the browser match the dimensions of the boxes in the image above.
+
+Remember the initial boxes have dimensions of 100px height and width.
+https://s3.amazonaws.com/codecademy-content/courses/css-challenges/finished+padding+vs+margin+diagram.png*/
+
