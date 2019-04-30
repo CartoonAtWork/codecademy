@@ -95,12 +95,12 @@ All about choosing and setting CSS colors using a variety of techniques.
 ### 4.4 Learn CSS: Typography (26/04)
 All about CSS typography, such as how to include fonts from other sources and how to style your text. 
 - - [x] Lesson: CSS Typography completed (25/04)
-- - [x ] Project: Typography - Practice text styling in CSS. The arrangement and style of text on your webpage has a large impact on your user's experience. [soon exercise's link here]()
-- - [X ] Quiz: CSS Typography 
+- - [x] Project: Typography - Practice text styling in CSS. The arrangement and style of text on your webpage has a large impact on your user's experience. [soon exercise's link here]()
+- - [x] Quiz: CSS Typography 
 
 ### 4.5 CSS Code Challenges 
 Challenge yourself to complete CSS rulesets with these cumulative code challenges. 
-- - [ ] Lesson: Code Challenge: CSS Design 
+- - [x] Lesson: Code Challenge: CSS Design 
 
 ### 4.6 Learn Responsive Design 
 Learn responsive design techniques, like relative sizing units and media queries, to create websites viewable on devices of all sizes. 
