@@ -104,7 +104,7 @@ Challenge yourself to complete CSS rulesets with these cumulative code challenge
 
 ### 4.6 Learn Responsive Design 
 Learn responsive design techniques, like relative sizing units and media queries, to create websites viewable on devices of all sizes. 
-- - [ ] Lesson: Sizing Elements 
+- - [x] Lesson: Sizing Elements 
 - - [ ] Lesson: Media Queries 
 - - [ ] Project: Tsunami Coffee - Practice responsive design in CSS. Making a responsive design for your webpage will ensure, no matter the screen, the user will always see the design you intended. [soon exercise's link here]()
 - - [ ] Quiz: Sizing Elements 
